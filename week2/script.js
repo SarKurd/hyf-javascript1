@@ -153,10 +153,16 @@ console.log(writeVehicleadvert());
 
 let emptyObj = {};
 
-//13 & 14
+//13
 
 let myhyfTeachers = {HTML_CSS: "The German Guy(forgot the name :-D and Dine",
  commandLine: "Unmesh" , git: "sorry forgot her name :(" , javascript: "Mauro", assitances: "Hardet and (idk his name :(" };
+
+ //14
+
+ myhyfTeachers.languages = "HTML CSS and Javascript"
+
+ console.log(myhyfTeachers.languages);
 
 
  //15
